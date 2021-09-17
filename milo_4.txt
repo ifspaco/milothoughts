@@ -1,9 +1,0 @@
-ext txt file 1
-li
-2=33333333333
-<<<<<<< HEAD
-inserting in main branch
-=======
-editing here maybe in branch
->>>>>>> milo_local_branch_1
-
